@@ -1,0 +1,2 @@
+print()
+abc=sc.textfile("filestore/tables/movies.csv")
